@@ -28,3 +28,7 @@ ul.posts{
 	list-style: square;
 	padding-left: 20px;
 }
+#footer{
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
