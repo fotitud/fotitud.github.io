@@ -5,6 +5,7 @@ body{
   background-image: url(http://fotitud.qiniudn.com/io/bg-body.png);
   background-position: top center;
   background-repeat: repeat-y;
+  background: #f2f2f2;
 }
 #wrap{
   width: 1120px;
@@ -16,7 +17,7 @@ body{
 }
 .navbar{
   background-image:url(http://fotitud.qiniudn.com/io/top_light.png);
-  
+  margin-top: 15px;
 }
 .inn{
   width:960px;
