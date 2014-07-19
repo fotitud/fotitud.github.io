@@ -1,13 +1,13 @@
 ---
 layout: page
 title: fotitud
-tagline: Supporting tagline
+tagline: An introduction to me.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+First of all, I'm a super kawaii boy.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Then I major in Computer Science but my final destination is so damn further than just do computer.
 
 ## Update Author Attributes
 
