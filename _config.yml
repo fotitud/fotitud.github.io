@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 42@fotitud
 tagline: Site Tagline
 author :
   name : Name Lastname
@@ -27,7 +27,7 @@ markdown: kramdown
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://fotitud.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
