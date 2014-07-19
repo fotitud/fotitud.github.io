@@ -14,3 +14,11 @@ body{
   position: relative;
   z-index: 1;
 }
+.navbar{
+  background-image:url(http://fotitud.qiniudn.com/io/top_light.png);
+  
+}
+.inn{
+  width:960px;
+  margin:0 auto;
+}
