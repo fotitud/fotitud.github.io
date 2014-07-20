@@ -23,6 +23,9 @@ body{
   width:960px;
   margin:0 auto;
 }
+.tag_box{
+	padding-left: 0;
+}
 ul.posts{
 	list-style: square;
 	padding-left: 20px;
