@@ -30,6 +30,10 @@ ul.posts{
 	list-style: square;
 	padding-left: 20px;
 }
+ul.posts a:hover,.content a:hover{
+  text-decoration: none;
+	border-bottom: 1px solid;
+}
 .content{
     font-size: 16px;
     line-height: 30px;
